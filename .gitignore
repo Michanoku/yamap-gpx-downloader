@@ -1,0 +1,14 @@
+# Ignore downloaded GPX files
+download/
+
+# Ignore download log
+downloaded.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment (if you ever add one)
+venv/
+.env/
