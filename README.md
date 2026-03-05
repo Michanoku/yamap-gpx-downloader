@@ -63,7 +63,7 @@ Additional libraries may have to be installed for Playwright to work.
 
 ## 日本語
 
-この Python スクリプトは、Playwright を使用して YAMAP（https://yamap.com）から自分の登山活動の GPX データを自動的にダウンロードします。  
+この Python スクリプトは、Playwright を使用して [YAMAP](https://yamap.com) から自分の登山活動の GPX データを自動的にダウンロードします。  
 すでにダウンロード済みのアクティビティは記録されるため、いつでも安全に再実行できます。
 
 ## 主な機能
@@ -80,7 +80,7 @@ Additional libraries may have to be installed for Playwright to work.
 ## 動作環境
 
 - Python 3.11 以上  
-- Playwright（https://playwright.dev/python/）  
+- [Playwright](https://playwright.dev/python/)   
 - Ubuntu / Debian 系 Linux（Chromium 用の必要ライブラリがインストールされていること）
 
 ## セットアップ
